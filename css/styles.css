@@ -14,6 +14,11 @@ ul {
     list-style-position: inside;
     text-align: center;
   }  
+
 body {
     background-color: #abe5c2;
   }
+
+#my-pic {
+text-align: center;
+}
