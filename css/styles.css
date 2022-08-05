@@ -1,15 +1,22 @@
 h1 {
     text-align: center;
+    color: #07150c;
 }
+
 h2 {
     text-align: center;
+    color: #07150c;
 }
+
 p {
     text-align: center;
 }
+
 h3 {
     text-align: center;
+    color: darkgreen;
 }
+
 ul {
     list-style-position: inside;
     text-align: center;
@@ -21,4 +28,9 @@ body {
 
 #my-pic {
 text-align: center;
+}
+
+img {
+    border: 6px solid;
+    border-color: #113821;
 }
